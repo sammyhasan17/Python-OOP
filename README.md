@@ -11,11 +11,7 @@ MAIN
 • invoke a method that displays the value of each attribute of every course in the array.
 
 Attributes:
- Course Name
- Course number
- Section
- Term and year
- Number of students
+Course Name, Course number, Section,Term and year, Number of students
 
 
 all are user defined inputs
